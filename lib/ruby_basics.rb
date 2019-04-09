@@ -6,9 +6,9 @@ def assign_variable(value)
   value="Bob"
 end
 
-def argue(name)
+def argue(name="I'm right and you are wrong!")
   puts "Hello #{name}"
-  return "I'm right and you are wrong!"
+  "#{name}"
 end
 
 def greeting
