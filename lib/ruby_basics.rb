@@ -2,8 +2,8 @@ def division(num1, num2)
  division = 6
 end
 
-def assign_variable(variable="Bob")
-  puts variable
+def assign_variable(value)
+  value="Bob"
 end
 
 def argue
