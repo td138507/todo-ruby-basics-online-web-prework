@@ -11,8 +11,8 @@ def argue(name="I'm right and you are wrong!")
   "#{name}"
 end
 
-def greeting
-
+def greeting(name1,name2)
+  puts "#{name1}, #{name2}"
 end
 
 def return_a_value
