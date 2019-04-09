@@ -8,6 +8,7 @@ end
 
 def argue(name)
   puts "Hello #{name}"
+  return "I'm right and you are wrong!"
 end
 
 def greeting
